@@ -8,8 +8,8 @@ import java.util.*;
  *
  *  Moderate task (up to A level): 
  *    - Ask for a second whole number called total (a positive number).
- *    - Compute n divided by total as a DECIMAL calculation.
- *      * Example: if n = 37 and total = 90, print: "37/90 is 0.4111111111111111"
+ *    - Compute x divided by total as a DECIMAL calculation.
+ *      * Example: if x = 37 and total = 90, print: "37/90 is 0.4111111111111111"
  *    - If total <= 0, print an error message and skip the percentage.
  *
  *  Challenge task (up to A+ level):
